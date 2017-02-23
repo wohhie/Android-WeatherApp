@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="colorWhite">#FFFFFF</string>
+</resources>
